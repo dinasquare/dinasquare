@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaauraangi Praakash</h1>
+<h1 align="center">Hi 👋, I'm Gauraangi</h1>
 <h3 align="center">A passionate AI Ethusiast</h3>
 
 
